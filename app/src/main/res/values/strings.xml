@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="api">API:</string>
+    <string name="version">Version:</string>
+    <string name="tvCar">Características:</string>
+    <string name="txtApi">Escribe la API</string>
+    <string name="txtVersion">Escribe la version</string>
+    <string name="txtCar">Escribe las caracteristicas</string>
+</resources>
